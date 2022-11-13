@@ -3785,8 +3785,8 @@ input, select, textarea {
 		}
 
 .embed-video{
-	width: 48vw;
-	height: 27vw;
+	width: 64vw;
+	height: 36vw;
 	min-width: 500px;
 	min-height: 294px;
 }

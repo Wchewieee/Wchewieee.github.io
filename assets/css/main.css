@@ -3790,3 +3790,7 @@ input, select, textarea {
 	min-width: 500px;
 	min-height: 294px;
 }
+
+.dev-log{
+	text-align: left;
+}

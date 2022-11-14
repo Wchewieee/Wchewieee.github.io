@@ -2636,6 +2636,7 @@ input, select, textarea {
 		text-align: center;
 	}
 
+
 	header.major {
 		margin-bottom: 3em;
 	}
@@ -3793,4 +3794,5 @@ input, select, textarea {
 
 .dev-log{
 	text-align: left;
+	font-size: 15px;
 }
